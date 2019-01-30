@@ -1,0 +1,16 @@
+// Billy Kwong
+// bqkwong
+// 12B/12M
+// 3/8/2018
+// README
+
+README:
+
+Files Submitted: 
+makefile 
+README 
+DictionaryInterface.java
+KeyCollisionException.java 
+KeyNotFoundException.java 
+DictionaryClient.java 
+Dictionary.java

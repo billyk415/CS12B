@@ -1,0 +1,18 @@
+//-----------------------------------------------------------------------------
+// Billy Kwong
+// bqkwong
+// 12B/12M
+// 2/7/2018
+// README
+// README file for PA3
+//-----------------------------------------------------------------------------
+
+Files submitted:
+README
+Dictionary.java created by me
+DictionaryTest.java created by me
+DuplicateKeyException.java created by me
+KeyNotFoundException.java created by me
+DictionaryInterface.java unchanged
+DictionaryClient.java unchanged
+Makefile altered at my discretion
